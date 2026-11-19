@@ -6,7 +6,7 @@ I'm Munkhnasan Otgonbold, a finance professional building a career in data analy
 
 I enjoy making messy data useful — whether that means finding a reporting discrepancy, building a dashboard people can actually use, or automating a task that used to take hours. My finance background helps me connect the numbers to the business decisions behind them.
 
-[🌐 Explore my portfolio](https://munkhnasan-portfolio.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/munkhnasan-otgonbold-b319b6161) · [📊 Tableau Dashboards](https://public.tableau.com/app/profile/munkhnasan.otgonbold/vizzes) · [📄 Resume](https://munkhnasan-portfolio.vercel.app/Munkhnasan-Otgonbold-Resume.pdf)
+[🌐 Explore my portfolio](https://munkhnasan-portfolio.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/munkhnasan-otgonbold-b319b6161) · [📊 Tableau Dashboards](https://public.tableau.com/app/profile/munkhnasan.otgonbold/vizzes)
 
 ---
 
